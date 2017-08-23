@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangpeng/code/swig-demo/engine.cpp
+engine.h
+/Users/zhangpeng/code/swig-demo/engine.h
+
+/Users/zhangpeng/code/swig-demo/engine.h
+string
+-
+
+/Users/zhangpeng/code/swig-demo/java/swig_java_wrap.cxx
+jni.h
+-
+stdlib.h
+-
+string.h
+-
+iostream
+-
+../engine.h
+/Users/zhangpeng/code/swig-demo/engine.h
+stdexcept
+-
+vector
+-
+stdexcept
+-
+string
+-
+swig_java_wrap.h
+/Users/zhangpeng/code/swig-demo/java/swig_java_wrap.h
+
+/Users/zhangpeng/code/swig-demo/java/swig_java_wrap.h
+

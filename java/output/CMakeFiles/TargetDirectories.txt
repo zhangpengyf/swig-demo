@@ -1,0 +1,3 @@
+/Users/zhangpeng/code/swig-demo/java/output/CMakeFiles/rebuild_cache.dir
+/Users/zhangpeng/code/swig-demo/java/output/CMakeFiles/edit_cache.dir
+/Users/zhangpeng/code/swig-demo/java/output/CMakeFiles/truman.dir
